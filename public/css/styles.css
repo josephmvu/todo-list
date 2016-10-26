@@ -1,0 +1,19 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+#todo-wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.page-header {
+    margin-top: 0;
+}
+
+h1 {
+    text-align: center;
+}
